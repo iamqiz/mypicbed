@@ -1,2 +1,2 @@
 # mypicbed
-github图床 
+github图床  
